@@ -1,0 +1,64 @@
+.crivo {
+    background: #141316;
+    padding: 20px;
+    border-radius: 20px;
+    -webkit-box-shadow: 4px 3px 13px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 3px 13px 0px rgba(0,0,0,0.75);
+    box-shadow: 4px 3px 13px 0px rgba(0,0,0,0.75);
+}
+
+.crivo, .crivo tr, .crivo tr td { border: 0; outline: 0; }
+.crivo {
+    font-family: 'Roboto', sans-serif;
+}
+.crivo tr td {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+
+    background: #343945;
+    color: #FFF;
+    
+    font-weight: bold;
+    text-align: center;
+
+    opacity: 1;
+    transition: all 1s ease;
+}
+.crivo tr td.number-one {
+    background: #141316;
+    opacity: 0.1;
+}
+.crivo tr td.crived {
+    background: #141316;
+    opacity: 0.1;
+}
+
+
+.modal-center-text {
+    font-size: 18px;
+    text-align: center;
+}
+
+.buttons-row {
+    padding: 20px;
+}
+
+.buttons-row button {
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 10px 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #AAA;
+    transition: color 0.3s ease;
+    cursor: pointer;
+}
+.buttons-row button:hover {
+    color: #FFF;
+}
+.buttons-row button:not(:last-child) {
+    margin-right: 20px;
+}
