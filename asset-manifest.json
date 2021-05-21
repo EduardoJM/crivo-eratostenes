@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crivo-eratostenes/static/css/main.de010665.chunk.css",
+    "main.js": "/crivo-eratostenes/static/js/main.5cd5e8f8.chunk.js",
+    "main.js.map": "/crivo-eratostenes/static/js/main.5cd5e8f8.chunk.js.map",
+    "runtime-main.js": "/crivo-eratostenes/static/js/runtime-main.8abb3da6.js",
+    "runtime-main.js.map": "/crivo-eratostenes/static/js/runtime-main.8abb3da6.js.map",
+    "static/js/2.de3c0dd8.chunk.js": "/crivo-eratostenes/static/js/2.de3c0dd8.chunk.js",
+    "static/js/2.de3c0dd8.chunk.js.map": "/crivo-eratostenes/static/js/2.de3c0dd8.chunk.js.map",
+    "index.html": "/crivo-eratostenes/index.html",
+    "static/css/main.de010665.chunk.css.map": "/crivo-eratostenes/static/css/main.de010665.chunk.css.map",
+    "static/js/2.de3c0dd8.chunk.js.LICENSE.txt": "/crivo-eratostenes/static/js/2.de3c0dd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8abb3da6.js",
+    "static/js/2.de3c0dd8.chunk.js",
+    "static/css/main.de010665.chunk.css",
+    "static/js/main.5cd5e8f8.chunk.js"
+  ]
+}
